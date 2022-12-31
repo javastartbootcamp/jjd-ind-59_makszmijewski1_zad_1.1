@@ -5,5 +5,7 @@ public class Main {
                 "programowania");
         System.out.println("i\n" +
                 "commitowania");
+
+        System.out.println("abc");
     }
 }
