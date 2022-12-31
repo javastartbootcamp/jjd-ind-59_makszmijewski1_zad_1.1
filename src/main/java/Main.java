@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Uczę\n" +
                 "się\n" +
                 "programowania");
+        System.out.println("i\n" +
+                "commitowania");
     }
 }
